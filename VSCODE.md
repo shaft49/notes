@@ -4,7 +4,7 @@ Move lines of code up <b>ALT/OPT + UP</b> <br>
 Duplicate lines of code up <b>SHIFT + ALT/OPT + UP</b> <br>
 Duplicate lines of code down <b>SHIFT + ALT/OPT + DOWN</b> <br>
 Move words by words <b>ALT/OPT + LEFT/RIGHT</b> <br>
-Select the current line <b>COMMAND + L, keep pressing for multiple lines</b> <br>
+Select the current line <b>COMMAND + L</b>, keep pressing for multiple lines</b> <br>
 Delete the current line <b>COMMAND + SHIFT + K</b> <br>
 Insert a line above the current line <b>COMMAND + SHIFT + ENTER</b> <br>
 Indent the line, <b>COMMAND + ]</b> <br>
