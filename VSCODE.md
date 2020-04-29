@@ -16,3 +16,17 @@ Delete everything of a line from specific point, <b>COMMAND + DELETE</b> <br>
 
 Sidebar show/hide <b>CMD+B</b><br>
 Terminal show/hide <b>CMD+J</b><br>
+
+Switch Between terminal and editor<br>
+Put this in <b>Preferences: Open Keyboard Shortcuts (JSON)</b> <br>
+```json
+{
+        "key": "ctrl+=",
+        "command": "workbench.action.terminal.focus",
+    },
+    {
+        "key": "ctrl+=",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    }
+```
