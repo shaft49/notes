@@ -13,3 +13,6 @@ Jump to the top of the file, <b>COMMAND + UP</b> <br>
 Jump to the down of the file, <b>COMMAND + DOWN</b> <br>
 Go to a specific line <b>CTRL + G</b>, and wirte the line number <br>
 Delete everything of a line from specific point, <b>COMMAND + DELETE</b> <br>
+
+Sidebar show/hide <b>CMD+B</b><br>
+Terminal show/hide <b>CMD+J</b><br>
