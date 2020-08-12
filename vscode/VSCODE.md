@@ -29,4 +29,13 @@ Put this in <b>Preferences: Open Keyboard Shortcuts (JSON)</b> <br>
         "command": "workbench.action.focusActiveEditorGroup",
         "when": "terminalFocus"
     }
+}
 ```
+
+# Python Extensions for vscode
+
+    python
+    python docstring generator
+    python indent
+    code runner
+    pylint or flake8, install using pip
