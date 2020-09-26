@@ -15,6 +15,8 @@ Go to this [link](https://github.com/cli/cli#installation) to find out os specif
      or
 
      gh issue create --web # it will open the issue page in the browser
+# Close Issue
+    gh issue close {issue_url}
 
 # Pull Request
 
