@@ -8,6 +8,9 @@ Go to this [link](https://github.com/cli/cli#installation) to find out os specif
 
     gh auth login
 
+# Set Editor
+    gh config set editor code # if you wanna use the visual studio code
+
 # Create Issues
 
      gh issue create --title "I found a bug" --body "Nothing works" --label bug
