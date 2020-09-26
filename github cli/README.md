@@ -18,4 +18,8 @@ Go to this [link](https://github.com/cli/cli#installation) to find out os specif
 
 # Pull Request
 
-    gh pr create
+    gh pr create # Interactive Pull Request
+    
+# Merge Request
+
+    gh pr merge # Interactive merging
