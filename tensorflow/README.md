@@ -32,3 +32,34 @@ To see the different functions please check out the notebook.
     slicing / indexing
     tf.reshape
     numpy to tensor and vice versa
+
+
+
+## Save & Load Models
+* Option 1: Save Whole Model
+    * Tensorflow Saved Model
+    > model.save('model_name')
+    * HDF5 Format
+    > model.save('model_name.h5')
+
+    > model = keras.models.load_model('model_name.h5')
+* Option 2: Save Only Weights
+    > model.save_weights('model_name.h5')
+
+    * Need to initialize the whole model before loading the weights
+    model = Same model that you use to save weights
+
+    >model.load_weights('model_name.h5')
+
+* Option 3: Save only architecture, to_json, you need to train it again before you can use it to predict
+    
+        json_string = model.to_json()
+        with open('model_name.json', 'w') as write_file:
+            write_file.write(json_string)
+
+        with open('model_name.json', 'r') as read_file:
+            loaded_json_string = read_file.read()
+
+        model = keras.models.load_from_json(loaded_json_string)
+
+    > Now you need to train the model again.
