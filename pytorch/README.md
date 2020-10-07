@@ -1,5 +1,5 @@
 # Pytorch
-    https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&fbclid=IwAR0XT_ZKBQ3KEWOq0FsOVml-dlQLpBCXtYnI47WTuyYRv1Z-KtHoA4Gprwo
+[Tutorial Link](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&fbclid=IwAR0XT_ZKBQ3KEWOq0FsOVml-dlQLpBCXtYnI47WTuyYRv1Z-KtHoA4Gprwo)
 # Installation
     https://pytorch.org/get-started/locally/
     Choose according to you OS, GPU availability and package manager
