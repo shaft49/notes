@@ -1,5 +1,6 @@
 # Machine Learning
 - [ML Study Plan](https://github.com/python-engineer/ml-study-plan)
+
 Machine learning is the practice of using algorithms to analyze data, learn from that data, and then make a determination or prediction about new data.
 
 With machine learning, rather than manually writing code with a specific set of instructions to accomplish a specific task, the machine is trained using data and algorithms that give it the ability to perform the task without being explicitly being told how to do so.
