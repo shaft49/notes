@@ -82,7 +82,7 @@ Optional:
 - [ ] Reproduce paper and implement the algorithms.
 - [ ] Write a blog to explain what you have learned.
 - [ ] Contribute to ML/DL related open source projects (sklearn, pytorch, fastai, ...).
-- [ ]Get into Kaggle competitions.
+- [ ] Get into Kaggle competitions.
 
 ## Further readings
 
