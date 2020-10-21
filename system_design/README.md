@@ -102,7 +102,7 @@
 
 ## The Plan
 
-### 1.
+### 1. Basics
 
 - [x] [Jackson Gabbard Intro to Architecture and System Design Interview](https://www.youtube.com/watch?v=ZgdS0EUmn70)
   - Talks about what to expect in a system interview.
@@ -114,11 +114,18 @@
   - If you're not in a company who builds system for millions of users then learn the details of architecture of those who does.
   - If you get rejected it means you were at least at the front door of that place. just keep going
 
-### 2.
+### 2. See Videos on Real Life Examples
+
+- [Tushar Roy Youtube](https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
+
+  - Talks about `TinyURL`, `messenger`, `TypeAhead`, `Distributed Database`
 
 - [Gaurav Sen System Design](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-- [Tushar Roy Youtube](https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
+
 - [Success in Tech Youtube](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
+
+### 3.
+
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Systems Expert](algoexpert.io/systems/product)
