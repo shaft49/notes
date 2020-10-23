@@ -126,6 +126,8 @@
 
 ### 3.
 
+- [Hired In Tech](https://www.hiredintech.com/classrooms/system-design/lesson/52)
+- [Scalability](https://www.lecloud.net/tagged/scalability)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Systems Expert](algoexpert.io/systems/product)
@@ -136,6 +138,7 @@
 - [High Scalabilty Website](http://highscalability.com/)
 - [CS75 Scalability Slides]()
 - [Drawing Tools](https://sketchboard.me/)
+- [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 
 ## Examples
 
