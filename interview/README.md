@@ -2,6 +2,11 @@
 
 **1. Why do you want to work here?**
 
+> Do not talk about salary
+> Talk about product, culture, job description
+> Talk about mutual connection's feedback who works at their company
+> Long term goal
+
 - Evaluate your intensions: make a quick list for why you want to work for the company and what inspire you most about the positions.
 - Do your Research: Find out everything about the company and the positions
 - Show that you're the solution to their problem:
