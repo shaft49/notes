@@ -82,7 +82,8 @@
   - Hold and Wait – A process is holding at least one resource and waiting for resources.
   - No Preemption – A resource cannot be taken from a process unless the process releases the resource.
   - Circular Wait – A set of processes are waiting for each other in circular form.
-
+### Banker's Algorithm: Deadlock Avoidance Algorithm
+- Bank never allocates available cash in such a way that it can no longer satisfy the needs of all of its customers.
 ### Multi threading patterns
 
 - Boss-Worker Patterns
@@ -98,3 +99,8 @@
 
 - A thread tries to read a value, when another thread modifies it
 - Solution: Use locking
+
+### Mutex vs Semaphores
+- A mutex is locking mechanism used to synchronize access to a resource. Only one task (can be a thread or process based on OS abstraction) can acquire the mutex. It means there is ownership associated with mutex, and only the owner can release the lock (mutex).
+
+- Semaphore is signaling mechanism (“I am done, you can carry on” kind of signal). For example, if you are listening songs (assume it as one task) on your mobile and at the same time your friend calls you, an interrupt is triggered upon which an interrupt service routine (ISR) signals the call processing task to wakeup.
