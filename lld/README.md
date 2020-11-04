@@ -24,9 +24,13 @@ SOLID is an acronym for five design principles intended to make software designs
 - S: Single Responsibility Principle (SRP)
   - A class should do a single task.
 - O: Open Closed Design Principles (OCP)
+  - If modification needed, use inheritence rather chaning the present class.
 - L: Liskov Substitution Principles (LSP)
+  - Make the parent class complete
 - I: Interface Segregation Principles (ISP)
+  - Make the code small and specific
 - D: Dependency Inversion (DI)
+  - Derive from abstract class
   - High Level modules should not depend on the low level modules.
 
 ---
