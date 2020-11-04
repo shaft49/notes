@@ -58,6 +58,23 @@
   - Two types of caching:
     - Every Nodes does its own caching
     - Distributed Caching: Cached Data is shared between nodes
+- **Proxies**
+  - A proxy server is an intermediate server between the client and the back-end server.
+  - proxies are used to filter requests, log requests, or sometimes transform requests (by adding/removing headers, encrypting/decrypting, or compressing a resource.
+  - If multiple clients access a particular resource, the proxy server can cache it and serve it to all the clients without going to the remote server.
+- **Long-Polling vs WebSockets vs Server-Sent Events**
+  - Ajax Polling: The client repeatedly polls (or requests) a server for data.
+  - HTTP Long Polling:
+    - The client makes an initial request using regular HTTP and then waits for a response.
+    - The server delays its response until an update is available or a timeout has occurred.
+    - When an update is available, the server sends a full response to the client.
+    - The client typically sends a new long-poll request, either immediately upon receiving a response or after a pause to allow an acceptable latency period.
+    - Each Long-Poll request has a timeout. The client has to reconnect periodically after the connection is closed due to timeouts.
+  - Web Sockets: Full Duplex Communication Channels
+  - Server Sent Events:
+    - Client requests data from a server using regular HTTP.
+    - The requested webpage opens a connection to the server.
+    - The server sends the data to the client whenever there’s new information available.
 - **Data Center / Racks / Hosts**: Need to know latency time for internal DC/racks/host communication. Whate happens if an internal dc/racks/host goes down.
 - **CPU / Memory / Harddrive / Network Bandwith**: Keep in mind these are Limited resources.
 - **Random vs Sequential Read & Write on Disk**: Random is slow, Sequential is fast.
