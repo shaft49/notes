@@ -33,7 +33,7 @@ SOLID is an acronym for five design principles intended to make software designs
 
 ## Design Patterns
 
-- A general repeatable solutionto a commonly occurring problem in software design.
+- A general repeatable solution to a commonly occurring problem in software design.
 
 ### Factory Design Principle
 
@@ -57,7 +57,7 @@ SOLID is an acronym for five design principles intended to make software designs
 ## How to attempt LLD questions in interview?
 
 - Step 1: Clarify Requirements/Handle Ambiguity
-  = Step 2: Define the Core Objects / Class Diagram
+- Step 2: Define the Core Objects / Class Diagram
 - Step 3: Analyze Relationship
 - Step 4: Investigate Actions, Apply Design Patterns
 - Step 5: Write codes to a specific class that your interviewer asked.
