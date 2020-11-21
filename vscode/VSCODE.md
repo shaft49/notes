@@ -92,6 +92,9 @@ Put this in <b>Preferences: Open Keyboard Shortcuts (JSON)</b> <br>
 
     auto rename tag
 
+## Extensions that are trying right now
+- [TabNine- js ts py html css sql bash react c/c++](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+- [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 ## Settings Sync
 
 If you wanna use the same settings in multiple devices
