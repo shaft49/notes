@@ -1,7 +1,12 @@
 # IELTS Preparation Guideline [UKVI Academic]
-# Study Plan
 ---
+## International English Language Testing System
+1. **Speaking**: Contains 3 parts, each lasts between 11-14 mins.
+2. **Listening**: 30 mins of audio recording with 40 questions. Then 10 mins will be given to transfer the answers to the actual script.
+3. **Reading**: 3 passages with 40 questions. Lasts about an hour.
+4. **Writing**: Two different tasks. Task 1 is a short report of graph, map, table etc. Duration is 1 hour in total.
 # Resources
+- [Free Crash Course](https://my.ieltsadvantage.com/)
 ## Blog post
 - [ ] [Reddit Thread](https://www.reddit.com/r/IELTS/comments/bxrtc0/sharing_my_ielts_resources_l85_r90_w70_s80/)
 ## Practice Test
