@@ -48,8 +48,8 @@ Examiner will test you on 4 different criteria
 4. Grammar 25%
 > Write at least 250 words or above. But you don't get more marks for longer essay. 5 mins of planning and 35 mins of writing. Aim for between 250-280 words and don't go off the topic.
 - **Introduction Paragraph**: Should be 35-50 words long.
-  - **Background Statment**: Paraphrase the background statement.
-  - **Specific Statement**: Paraphrase the specific statement. Don't just copy the statement.
+  - **Background Statment**: Paraphrase the background statement. (topic)
+  - **Specific Statement**: Paraphrase the specific statement. Don't just copy the statement. (task)
   - **Thesis Statement**: Start with `In my opinion`. Give your answer to the point with some additional information. One long sentence or 2 separate sentence is fine.
 - **Body Paragraph**
   - Each body paragraph has one idea in it. You need to supoort/develope/extend the idea.
