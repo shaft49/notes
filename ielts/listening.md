@@ -93,3 +93,13 @@ Example: He would like to meet [at in on] _____
 - Know your uncountable nouns. They don't have 's in the end.
 - Know your vocabulary ans spelling.
 - Be careful of linking sounds
+
+---
+## Types of Questions
+> Answers will follow the same order as question. If you miss one, don't worry about that. Move onto the next question.
+- Multiple Choice
+- Matching
+- Plan, Map, Diagram Labelling
+- Form, Note, Table, Flow Chart, Summary Completion
+- Sentence Completion
+- Short answers
